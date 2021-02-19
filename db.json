@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "title": "ascsc",
+      "author": "sacsac",
+      "category": "horror",
+      "isbn": "651",
+      "id": 1
+    },
+    {
+      "title": "dscdsv",
+      "author": "dsvdsv",
+      "category": "horror",
+      "isbn": "6516",
+      "id": 2
+    },
+    {
+      "title": "sdvcsv",
+      "author": "cxvdv",
+      "category": "horror",
+      "isbn": "4545",
+      "id": 3
+    },
+    {
+      "title": "dsvdsv",
+      "author": "dsvsdv",
+      "category": "horror",
+      "isbn": "45252",
+      "id": 4
+    },
+    {
+      "title": "sdvfdv",
+      "author": "fdvdfv",
+      "category": "fantasy",
+      "isbn": "752752",
+      "id": 5
+    },
+    {
+      "title": "sdcsdc",
+      "author": "sdcsdc",
+      "category": "horror",
+      "isbn": "452572",
+      "id": 6
+    },
+    {
+      "title": "dscdsc",
+      "author": "dsvsdv",
+      "category": "horror",
+      "isbn": "50540540",
+      "id": 7
+    }
+  ]
+}
